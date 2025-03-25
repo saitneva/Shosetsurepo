@@ -1,0 +1,2 @@
+# Shosetsurepo
+lightnovel repository
